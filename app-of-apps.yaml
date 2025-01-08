@@ -9,5 +9,5 @@ spec:
   project: default
   source:
     path: apps
-    repoURL: https://github.com/<repo>
+    repoURL: https://github.com/Gnauk841026/intro-argo-cd-tutorial-template.git
     targetRevision: HEAD
